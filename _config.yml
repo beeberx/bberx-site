@@ -9,3 +9,5 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 theme: jekyll-theme-minimal
+title: Bee Berx - Personal Site
+description: Personal Site of Dr Bee Berx
